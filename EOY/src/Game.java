@@ -10,7 +10,7 @@ public class Game  extends JPanel implements Runnable, KeyListener{
 	
 	private BufferedImage back; 
 	private int key; 
-
+	private ArrayList <Characters> Character;
 
 
 	
@@ -19,11 +19,25 @@ public class Game  extends JPanel implements Runnable, KeyListener{
 		this.addKeyListener(this);
 		key =-1; 
 		
+		Character = setCharacter();
+
 	
 	}
 
 	
-	
+	private ArrayList<Characters> setCharacter(){
+		// TODO Auto-generated method stub
+
+		ArrayList <Characters> temp = new ArrayList();
+
+		for(int i = 0; i < 4; i++){
+			for(int j = 0; j < 4; j++){
+
+				temp.add(new Character(getRandomNumer(), j *10, i*10))
+			}
+		}
+	}
+
 	public void run()
 	   {
 	   	try
