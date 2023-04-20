@@ -40,6 +40,8 @@ public class Game extends JPanel implements Runnable, KeyListener, MouseListener
 
 		g2d.clearRect(0, 0, getSize().width, getSize().height);
 
+		g2d.drawString("Key is " + Key, 100, 100);
+
 		twoDgraph.drawImage(back, 0, 0, null);
 	}
 
