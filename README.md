@@ -5,7 +5,7 @@ Welcome to The Quest for the Golden Relic. An rpg game that has a lot of pontent
 ## Special Thanks to Beta Tester
 This is a special thnaks to the beta tester whose feedback was the most helpful in the creation of this game.
 
-Antoine Germany
+Antoine Germany,
 Victor Perat,
 Lindsey Knox,
 Alex Ramirez,
