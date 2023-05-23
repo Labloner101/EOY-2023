@@ -1,6 +1,28 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to The Quest for the Golden Relic. An rpg game that has a lot of pontential but so much could be done. 
+
+## Special Thanks to Beta Tester
+This is a special thnaks to the beta tester whose feedback was the most helpful in the creation of this game.
+
+Antoine Germany
+Victor Perat
+Lindsey Knox
+Alex Ramirez
+Alex gwen
+
+## Controls
+The controls for the game are 
+
+Spacebar - enter
+
+AWSD - movement
+  A - left movement
+  W - Up movement
+  S - down movement
+  D - right movment
+  
+<!--  Impliments the rest of the interactive buttons  -->
 
 ## Folder Structure
 
